@@ -68,10 +68,10 @@
     
 }.card .face.face2 h2{
     margin: 0;
-    padding: 0;
+    padding: 10;
     font-size: 10em;
     color: #fff;
-    transition: 0.4s;
+    transition: 0.5s;
 
 }.card:hover .face.face2 h2{
     color: #e1306c;
